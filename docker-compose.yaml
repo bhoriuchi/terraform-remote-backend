@@ -1,0 +1,16 @@
+version: '3.7'
+
+services:
+  dexidp:
+    image: dexidp/dex
+    # restart: always
+    networks:
+      - dev
+    ports:
+      - "5556:5556"
+      - "5558:5558"
+    volumes:
+      - "./example/data/dexidp/config/config.yaml:/etc/dex/config.docker.yaml"
+
+networks:
+  dev:

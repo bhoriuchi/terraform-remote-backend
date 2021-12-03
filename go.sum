@@ -1,0 +1,6 @@
+github.com/go-chi/chi/v5 v5.0.7 h1:rDTPXLDHGATaeHvVlLcR4Qe0zftYethFucbjVQ1PxU8=
+github.com/go-chi/chi/v5 v5.0.7/go.mod h1:DslCQbL2OYiznFReuXYUmQ2hGd1aDpCnlMNITLSKoi8=
+github.com/rocketlaunchr/https-go v0.0.0-20200218083740-ba6c48f29f4d h1:bL0c7wxznxDDQ+ebCpGN5T20ATeYDXedomXbQHwFwHA=
+github.com/rocketlaunchr/https-go v0.0.0-20200218083740-ba6c48f29f4d/go.mod h1:kDbnFcjPe/2KqPfycPSq0Ripnddx0DtCC2M1k95myWQ=
+golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 h1:go1bK/D/BFZV2I8cIQd1NKEZ+0owSTG1fDTci4IqFcE=
+golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=
